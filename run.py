@@ -74,7 +74,7 @@ def game_board():
             # Game info
             print('No. of guesses used: ', num_of_guesses)
             print('hits: ', correct)
-            print('Total Number of guesses', max_guesses)
+            print('Max. Number of guesses', max_guesses)
 
             # Out of bounds message
             if guess < 0 or guess > 49:
