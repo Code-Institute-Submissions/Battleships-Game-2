@@ -57,6 +57,21 @@ while num_of_guesses < max_guesses:
     print('hits: ', correct)
     print('Total Number of guesses', max_guesses)
 
+    if guess < 0 or guess > 49:
+        print('Thats out of bounds, try again.')
+        used_guesses.remove(guess)
+        num_of_guesses -= 1
+
+    if num_of_guesses == max_guesses:
+        print('You lose, max number of guesses used.')
+        break
+
+    if correct == 3:
+        print('You Win!')
+        break
+
+    
+
 
 
 
