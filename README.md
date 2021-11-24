@@ -33,4 +33,15 @@ are a total of 50 targets to choose from when the user takes their shot.
 - I can confirm that the code passes through the PEP8 linter with no issues.
 
 
+# credits
+
+- The design for my gameboard was influenced by what I learned from watching this [YouTube video](https://www.youtube.com/watch?v=Ej7I8BPw7Gk). 
+- I used pixlr-X to edit the images in this README file.
+- I used github for version control.
+
+# Deployment
+
+- This application is deployed to Heroku.
+
+
 
