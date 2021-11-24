@@ -2,7 +2,7 @@
 
 ![Gameboard](/Images/Gameboard.webp)
 
-This game was designed for people who want to challange themselves\n
+This game was designed for people who want to challange themselves
 and compete against a computer in this single player Battleships game.
 The objective of the game is to sink 3 of the 5 battleships that are 
 on the board. The user has a maximum of 20 guesses to succeed and there 
